@@ -11,6 +11,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [Neural Networks and Deep Learning Book](http://neuralnetworksanddeeplearning.com/) - 11.10.2017
 
 ## Papers
+- [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) - 25.02.2018
 
 ## Examples
 - [Here’s Mario Kart, as played by a neural network](https://www.polygon.com/2017/11/5/16610012/mario-kart-mariflow-neural-network-video) - 07.11.2017
