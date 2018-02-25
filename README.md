@@ -1,5 +1,5 @@
-# Flying Machine Learning
-Bookmark list for machine learning and related topics
+# Flying Machine Learning, Deep Learning, Artificial Intelligence
+Bookmark list for machine learning, deep learning, artificial intelligence and related topics
 
 ## Tutorials
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - 19.10.2017
