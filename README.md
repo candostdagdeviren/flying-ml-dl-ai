@@ -2,6 +2,7 @@
 Bookmark list for machine learning, deep learning, artificial intelligence and related topics
 
 ## Tutorials
+- [Amazon SageMaker – Accelerating Machine Learning](https://aws.amazon.com/blogs/aws/sagemaker/) - 08.03.2018
 - [Deep Learning with TensorFlow and Docker](https://ljstrnadiii.github.io/) - 05.03.2018
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - 19.10.2017
 
