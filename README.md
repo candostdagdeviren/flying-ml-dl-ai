@@ -17,6 +17,9 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 ## Papers
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) - 25.02.2018
 
+## Tools and Projects
+- [State-of-the-art AI research projects and tools for the community - Facebook](https://facebook.ai/developers/tools) - 02.05.2018
+
 ## Datasets
 - [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/) - 07.04.2018
 - [NLP Datasets](https://github.com/niderhoff/nlp-datasets/blob/master/README.md) - 07.04.2018
