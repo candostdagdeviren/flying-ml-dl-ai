@@ -17,6 +17,9 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 ## Papers
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) - 25.02.2018
 
+## Books
+- [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) - 27.05.2018
+
 ## Tools and Projects
 - [State-of-the-art AI research projects and tools for the community - Facebook](https://facebook.ai/developers/tools) - 02.05.2018
 
