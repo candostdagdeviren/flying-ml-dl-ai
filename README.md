@@ -20,6 +20,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) - 25.02.2018
 
 ## Books
+- [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf) - 03.06.2018
 - [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) - 27.05.2018
 
 ## Tools and Projects
