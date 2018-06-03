@@ -24,6 +24,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) - 27.05.2018
 
 ## Tools and Projects
+- [Gym Retro - Platform for Reinforcement learning research on games](https://blog.openai.com/gym-retro/) - 03.06.2018
 - [State-of-the-art AI research projects and tools for the community - Facebook](https://facebook.ai/developers/tools) - 02.05.2018
 
 ## Datasets
