@@ -39,5 +39,8 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [Here’s Mario Kart, as played by a neural network](https://www.polygon.com/2017/11/5/16610012/mario-kart-mariflow-neural-network-video) - 07.11.2017
 - [Sketching Interfaces - Airbnb](https://airbnb.design/sketching-interfaces/) - 27.10.2017
 
+## Courses
+- [Philosophy of Mind: Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines.html) - 03.06.2018
+
 ## Slides & Lecture Materials
 - [Causal Inference in Machine Learning](http://www.homepages.ucl.ac.uk/~ucgtrbd/talks/imperial_causality.pdf) - 27.05.2018
