@@ -17,6 +17,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [Neural Networks and Deep Learning Book](http://neuralnetworksanddeeplearning.com/) - 11.10.2017
 
 ## Papers
+- [Agent Foundations for Aligning Machine Intelligence with Human Interests: A Technical Research Agenda](https://intelligence.org/files/TechnicalAgenda.pdf) - 03.06.2018
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) - 25.02.2018
 
 ## Books
