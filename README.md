@@ -1,6 +1,8 @@
 # Flying Machine Learning, Deep Learning, Artificial Intelligence
 Bookmark list for machine learning, deep learning, artificial intelligence and related topics
 
+*Note:* The format for every entry is Title (with link) - Date added to the list
+
 ## Tutorials
 - [Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/) - 08.03.2018
 - [Amazon SageMaker – Accelerating Machine Learning](https://aws.amazon.com/blogs/aws/sagemaker/) - 08.03.2018
