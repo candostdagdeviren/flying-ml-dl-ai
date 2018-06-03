@@ -24,6 +24,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [State-of-the-art AI research projects and tools for the community - Facebook](https://facebook.ai/developers/tools) - 02.05.2018
 
 ## Datasets
+- [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - 03.06.2018
 - [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/) - 07.04.2018
 - [NLP Datasets](https://github.com/niderhoff/nlp-datasets/blob/master/README.md) - 07.04.2018
 
