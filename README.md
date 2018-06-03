@@ -44,6 +44,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [Sketching Interfaces - Airbnb](https://airbnb.design/sketching-interfaces/) - 27.10.2017
 
 ## Courses
+- [OpenDataScience Machine Learning course](https://github.com/Yorko/mlcourse_open) - 03.06.2018
 - [Philosophy of Mind: Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines.html) - 03.06.2018
 
 ## Slides & Lecture Materials
