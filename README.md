@@ -29,6 +29,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [NLP Datasets](https://github.com/niderhoff/nlp-datasets/blob/master/README.md) - 07.04.2018
 
 ## Podcasts
+- [Future Thinkers](https://futurethinkers.org/podcast/) - 03.06.2018
 - [Machine Learning Guide](http://ocdevel.com/mlg) - 03.06.2018
 - [This Week in Machine Learning and AI](https://twimlai.com/) - 03.06.2018
 
