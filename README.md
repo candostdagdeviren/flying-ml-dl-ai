@@ -6,6 +6,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 
 ## Tutorials
 
+- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) - 06.06.2018
 - [Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/) - 08.03.2018
 - [Amazon SageMaker – Accelerating Machine Learning](https://aws.amazon.com/blogs/aws/sagemaker/) - 08.03.2018
 - [Deep Learning with TensorFlow and Docker](https://ljstrnadiii.github.io/) - 05.03.2018
