@@ -12,8 +12,9 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 - [Deep Learning with TensorFlow and Docker](https://ljstrnadiii.github.io/) - 05.03.2018
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - 19.10.2017
 
-## Blog Posts
+## Blog Posts & Articles
 
+- [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3) - 19.08.2018
 - [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/) - 25.03.2018
 - [A Cookbook for Machine Learning: Vol 1](http://www.inference.vc/design-patterns/) - 17.11.2017
 - [Introductory Resources on AI Safety Research](https://futureoflife.org/2016/02/29/introductory-resources-on-ai-safety-research/) -  17.11.2017
