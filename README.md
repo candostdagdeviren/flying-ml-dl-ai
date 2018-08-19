@@ -61,3 +61,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 ## Slides & Lecture Materials
 
 - [Causal Inference in Machine Learning](http://www.homepages.ucl.ac.uk/~ucgtrbd/talks/imperial_causality.pdf) - 27.05.2018
+
+## News
+
+ - [Microsoft is creating an oracle for catching biased AI algorithms](https://www.technologyreview.com/s/611138/microsoft-is-creating-an-oracle-for-catching-biased-ai-algorithms/) - 19.08.2018
