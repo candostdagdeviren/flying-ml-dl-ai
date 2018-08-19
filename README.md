@@ -22,6 +22,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 
 ## Papers
 
+- [Unsupervised Meta-Learning for Reinforcement Learning](https://arxiv.org/abs/1806.04640) - 19.08.2018
 - [Agent Foundations for Aligning Machine Intelligence with Human Interests: A Technical Research Agenda](https://intelligence.org/files/TechnicalAgenda.pdf) - 03.06.2018
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) - 25.02.2018
 
