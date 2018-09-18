@@ -14,6 +14,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 
 ## Blog Posts & Articles
 
+- [Interpreting a data set, beginning to end](https://www.kdnuggets.com/2018/08/interpreting-data-set.html) - 18.09.2018
 - [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3) - 19.08.2018
 - [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/) - 25.03.2018
 - [A Cookbook for Machine Learning: Vol 1](http://www.inference.vc/design-patterns/) - 17.11.2017
