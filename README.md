@@ -14,6 +14,7 @@ Bookmark list for machine learning, deep learning, artificial intelligence and r
 
 ## Blog Posts & Articles
 
+- [How to Estimate a Machine Learning Project](https://www.netguru.com/blog/how-to-estimate-a-machine-learning-project) - 03.02.2019
 - [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/) - 18.09.2018
 - [Interpreting a data set, beginning to end](https://www.kdnuggets.com/2018/08/interpreting-data-set.html) - 18.09.2018
 - [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3) - 19.08.2018
